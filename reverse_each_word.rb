@@ -5,5 +5,5 @@ revarray = []
 revarray << word.reverse
 
 end
-revarray.join
+revarray.join (" ")
 end
